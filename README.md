@@ -21,10 +21,12 @@ Write a C program to take the following input of **2 students**:
 | Roll no | Name | Total Percentage |
 | :--- | :--- | :--- |
 | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 
 2. Display the **Subject-wise Average** for the 3 theory subjects:
 
 | Subject | Student 1 mark | Student 2 mark | Average |
+| :--- | :--- | :--- | :--- |
 | :--- | :--- | :--- | :--- |
 | :--- | :--- | :--- | :--- |
 | :--- | :--- | :--- | :--- |
