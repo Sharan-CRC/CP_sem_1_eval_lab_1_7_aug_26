@@ -9,10 +9,10 @@ student and subject wise average for 3 subjects in the following format
 
 1. Display the **Roll No**, **Name**, and **Total Percentage Score** secured by individual students:
 
-| Roll no | Name | Total Percentage |
-| :--- | :--- | :--- |
-| :--- | :--- | :--- |
-| :--- | :--- | :--- |
+| Roll no | Name | Average | Total Percentage |
+| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | 
+| :--- | :--- | :--- | :--- |
 
 2. Display the **Subject-wise Average** for the 3 theory subjects:
 
